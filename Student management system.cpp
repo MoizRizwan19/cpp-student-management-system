@@ -1,16 +1,4 @@
-/*
 
-  Name    : Moiz Rizwan 
-  Sap Id  :70173658
-  Section :BSSE-V
-
-
-
-
-
-
-
-*/
 
 #include <iostream>
 #include <fstream>
